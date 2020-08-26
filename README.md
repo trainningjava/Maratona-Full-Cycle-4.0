@@ -18,9 +18,9 @@ ponta a ponta. Da arquitetura até o deploy e monitoramento.
 
 ```frond-end
 * desafios1 -> Golang e Docker
-    = O Docker é uma plataforma que simplifica e acelera seu workflow dando aos desenvolvedores mais liberdade 
-      de inovar e escolher as melhores ferramentas, stacks para seu ambiente em cada projeto através da 
-      utilização de containers
+    = O Docker é uma plataforma que simplifica e acelera seu workflow dando aos desenvolvedores mais 
+      liberdade de inovar e escolher as melhores ferramentas, stacks para seu ambiente em cada projeto 
+      através da utilização de containers
       
 * desafios2
     = O Keycloack é um projeto que visa fornecer soluções completas em relação a autenticação e autorização, 
