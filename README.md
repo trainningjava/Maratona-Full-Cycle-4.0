@@ -5,7 +5,9 @@
 </h1>
 
 ### 🤔 Sobre o que se trata ? 
-A Maratona Full Cycle 4.0 é um evento 100% online e gratuito de uma semana (08/2020) onde você entenderá, através de um estudo de caso prático, como você poderá se tornar um Full Cycle Developer, ou seja, um desenvolvedor capaz de criar aplicações de ponta a ponta. Da arquitetura até o deploy e monitoramento.
+A Maratona Full Cycle 4.0 é um evento 100% online e gratuito de uma semana (08/2020) onde você entenderá, através de um estudo 
+de caso prático, como você poderá se tornar um Full Cycle Developer, ou seja, um desenvolvedor capaz de criar aplicações de 
+ponta a ponta. Da arquitetura até o deploy e monitoramento.
 
 ## :package: Desafios
 
@@ -17,7 +19,8 @@ A Maratona Full Cycle 4.0 é um evento 100% online e gratuito de uma semana (08/
 ```frond-end
 * desafios1 -> Golang e Docker
     = O Docker é uma plataforma que simplifica e acelera seu workflow dando aos desenvolvedores mais liberdade 
-      de inovar e escolher as melhores ferramentas, stacks para seu ambiente em cada projeto através da utilização de containers
+      de inovar e escolher as melhores ferramentas, stacks para seu ambiente em cada projeto através da utilização 
+      de containers
       
 * desafios2
     = O Keycloack é um projeto que visa fornecer soluções completas em relação a autenticação e autorização, 
