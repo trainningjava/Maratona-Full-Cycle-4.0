@@ -18,6 +18,6 @@ Gere o build da sua imagem, faça o push para o DockerHub e a informe no formul�
 
 <h2 align="center"> 📷 Screenshot </h2>
 <p align="center">
-<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/desafio1.gif?raw=true">
+<img width="800" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/desafio1.gif?raw=true">
 </p>
 
