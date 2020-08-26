@@ -2,7 +2,7 @@
 
 
 ### 🤔 Sobre o que se trata ? 
-A Maratona Full Cycle 4.0 é um evento 100% online e gratuito onde você entenderá, através de um estudo de caso prático, como você poderá se tornar um Full Cycle Developer, ou seja, um desenvolvedor capaz de criar aplicações de ponta a ponta. Da arquitetura até o deploy e monitoramento.
+A Maratona Full Cycle 4.0 é um evento 100% online e gratuito de uma semana (08/2020) onde você entenderá, através de um estudo de caso prático, como você poderá se tornar um Full Cycle Developer, ou seja, um desenvolvedor capaz de criar aplicações de ponta a ponta. Da arquitetura até o deploy e monitoramento.
 
 ## :package: Desafios
 
