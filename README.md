@@ -34,5 +34,6 @@ PROXIMOS desafios
 = O Kubernetes (K8s) é um sistema open-source para a automatização de deploys, de escalabilidade e de gerenciamento de aplicações baseadas em containers.
 
 ```
-
+<p align="center">
 <img width="600" src="./public/assets/images/Maratona.gif">
+</p>
