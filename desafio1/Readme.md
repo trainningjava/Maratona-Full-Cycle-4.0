@@ -11,8 +11,6 @@ Gere o build da sua imagem, faça o push para o DockerHub e a informe no formul�
 
 ## Técnologias usadas:
 
-## Front-end:
-
 * Node.js
 * Docker
 
