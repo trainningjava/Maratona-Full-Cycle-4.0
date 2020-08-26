@@ -13,6 +13,7 @@ ponta a ponta. Da arquitetura até o deploy e monitoramento.
 
 - [desafios1](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio1)
 - [desafios2](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio2)
+- [desafios3](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio3)
 
 ## :rocket: Tecnologias Utilizadas 
 
