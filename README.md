@@ -26,9 +26,12 @@ ponta a ponta. Da arquitetura até o deploy e monitoramento.
     = O Keycloack é um projeto que visa fornecer soluções completas em relação a autenticação e autorização, 
       utilizando os principais protocolos como SAML2, OpenID Connect.
     
+* desafios3
+    = O nest.js é um framework Javascript com um foco muito grande na criação de microsserviços, uma vez 
+    que ele possui implementações prontas para os principais modelos de comunicação entre sistemas. No 
+    nosso estudo de caso utilizaremos o nest para desenvolvermos todo o backend da aplicação
 
 PROXIMOS desafios
-= O nest.js é um framework Javascript com um foco muito grande na criação de microsserviços, uma vez que ele possui implementações prontas para os principais modelos de comunicação entre sistemas. No nosso estudo de caso utilizaremos o nest para desenvolvermos todo o backend da aplicação
 
 = O elastic search é um banco de dados baseado em documentos que terá uma cópia de todas as mensagens enviadas na plataforma entre os participantes.
 
