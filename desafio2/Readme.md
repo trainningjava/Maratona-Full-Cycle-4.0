@@ -12,8 +12,6 @@ siga esse passo a passo: https://www.keycloak.org/getting-started/getting-starte
 
 ## Técnologias usadas:
 
-## Front-end:
-
 * GO
 * Keycloak
 
