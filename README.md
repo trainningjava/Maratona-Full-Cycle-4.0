@@ -14,6 +14,7 @@ ponta a ponta. Da arquitetura até o deploy e monitoramento.
 - [desafios1](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio1)
 - [desafios2](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio2)
 - [desafios3](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio3)
+- [desafios4](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio4)
 
 ## :rocket: Tecnologias Utilizadas 
 
@@ -31,6 +32,11 @@ ponta a ponta. Da arquitetura até o deploy e monitoramento.
     = O nest.js é um framework Javascript com um foco muito grande na criação de microsserviços, uma vez 
     que ele possui implementações prontas para os principais modelos de comunicação entre sistemas. No 
     nosso estudo de caso utilizaremos o nest para desenvolvermos todo o backend da aplicação
+
+* desafios4
+    = O React é a biblioteca mais popular do JavaScript e é usada para construir uma interface de 
+    usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar comandos usando um novo 
+    método de renderizar sites.
 
 PROXIMOS desafios
 
