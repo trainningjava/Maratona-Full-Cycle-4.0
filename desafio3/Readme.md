@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img width="120" height="40" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/grupo_4378.png">
+    <img width="120" height="40" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/grupo_4378.png?raw=true">
 </h1>
 
-<img src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/nestjs.png" alt="Nest.js" width="50" height="50">
+<img src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/nestjs.png?raw=true" alt="Nest.js" width="50" height="50">
 
 ## Informações do desafio
 
@@ -44,10 +44,10 @@ o endereço da imagem logo abaixo.
 <h2 align="center"> 📷 Screenshot </h2>
 
 <p align="center">
-<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/desafio3api.gif">
+<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/desafio3api.gif?raw=true">
 </p>
 
 <p align="center">
-<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/desafio3.gif">
+<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/desafio3.gif?raw=true">
 </p>
 
