@@ -15,6 +15,7 @@ ponta a ponta. Da arquitetura até o deploy e monitoramento.
 - [desafios2](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio2)
 - [desafios3](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio3)
 - [desafios4](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio4)
+- [desafios5](https://github.com/trainningjava/Maratona-Full-Cycle-4.0/tree/master/desafio5)
 
 ## :rocket: Tecnologias Utilizadas 
 
@@ -38,13 +39,11 @@ ponta a ponta. Da arquitetura até o deploy e monitoramento.
     usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar comandos usando um novo 
     método de renderizar sites.
 
-PROXIMOS desafios
-
-= O elastic search é um banco de dados baseado em documentos que terá uma cópia de todas as mensagens enviadas na plataforma entre os participantes.
-
-= O elastic APM é uma é uma ferramenta da família elastic que visa monitorar nos mais diversos detalhes a performance das aplicações, desde velocidade de carregamento, erros até detalhes de queries SQL, entre outros
-
-= O Kubernetes (K8s) é um sistema open-source para a automatização de deploys, de escalabilidade e de gerenciamento de aplicações baseadas em containers.
+* desafios5
+    = GitHub é um sistema de gerenciamento de projetos e versões de códigos assim como uma plataforma 
+    de rede social criado para desenvolvedores. Mas para que o GitHub é utilizado? Entre outras 
+    coisas, ele permite que você trabalhe em projetos colaborativos com desenvolvedores de todo 
+    o mundo, planeje seus projetos e acompanhe o trabalho.
 
 ```
 <p align="center">
