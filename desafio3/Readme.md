@@ -38,10 +38,12 @@ o endereço da imagem logo abaixo.
 
 ## Técnologias usadas:
 
+```tecnologia
 * Nestjs
 * TypeORM
 * Docker
 * Swagger 
+```
 
 <h2 align="center"> 📷 Screenshot </h2>
 
