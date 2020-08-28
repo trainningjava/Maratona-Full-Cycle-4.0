@@ -16,8 +16,11 @@ siga esse passo a passo: https://www.keycloak.org/getting-started/getting-starte
 
 ## Técnologias usadas:
 
+```tecnologia
 * GO
 * Keycloak
+```
+
 
 <h2 align="center"> 📷 Screenshot </h2>
 <p align="center">
