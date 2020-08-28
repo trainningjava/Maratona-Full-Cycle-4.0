@@ -15,8 +15,10 @@ describe('AppController', () => {
   });
 
   describe('root', () => {
-    it('should return "Hello World!"', () => {
-      expect(appController.getHello()).toBe('Hello World!');
+    it('should return "D E S A F I O 5"', () => {
+      expect(appController.getHello()).toBe(
+        '<html><title>Maratona Full Cycle 4.0</title><body><br /><br /><br /><br /><center><h1 style="color:blue;">Maratona Full Cycle 4.0</h1></center><br /><br /><center>D E S A F I O 5</center></body></hhtml>',
+      );
     });
   });
 });
