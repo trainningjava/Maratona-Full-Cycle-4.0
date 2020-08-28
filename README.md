@@ -48,5 +48,5 @@ PROXIMOS desafios
 
 ```
 <p align="center">
-<img width="600" src="./public/assets/images/Maratona.gif">
+<img width="600" src="./public/assets/images/Maratona.gif?raw=true">
 </p>
