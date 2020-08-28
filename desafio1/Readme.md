@@ -3,6 +3,7 @@
 </h1>
 
 <img src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/docker.png?raw=true" alt="docker" width="50" height="50">
+<h1>Hello World com Docker</h1>
 <br />
 
  ## Informações do desafio
