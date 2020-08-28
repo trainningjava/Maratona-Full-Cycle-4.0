@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="120" height="40" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/grupo_4378.png">
+    <img width="120" height="40" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/grupo_4378.png?raw=true">
 </h1>
 
 <img src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/keycloack.png?raw=true" alt="docker" width="50" height="50">
@@ -19,14 +19,14 @@ siga esse passo a passo: https://www.keycloak.org/getting-started/getting-starte
 
 <h2 align="center"> 📷 Screenshot </h2>
 <p align="center">
-<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/desafio2.gif">
+<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/desafio2.gif?raw=true">
 </p>
 
 <p align="center">
-<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/keycloak.gif">
+<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/keycloak.gif?raw=true">
 </p>
 
 <p align="center">
-<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/resultado.JPG">
+<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/resultado.JPG?raw=true">
 </p>
 
