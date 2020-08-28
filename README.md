@@ -26,8 +26,8 @@ ponta a ponta. Da arquitetura até o deploy e monitoramento.
       através da utilização de containers
       
 * desafios2
-    = O Keycloack é um projeto que visa fornecer soluções completas em relação a autenticação e autorização, 
-      utilizando os principais protocolos como SAML2, OpenID Connect.
+    = O Keycloack é um projeto que visa fornecer soluções completas em relação a autenticação e 
+      autorização, utilizando os principais protocolos como SAML2, OpenID Connect.
     
 * desafios3
     = O nest.js é um framework Javascript com um foco muito grande na criação de microsserviços, uma vez 
