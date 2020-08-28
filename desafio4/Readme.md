@@ -3,6 +3,7 @@
 </h1>
 
 <img src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/react.png?raw=true" alt="Nest.js" width="50" height="50">
+<h1>Utilizando React.js</h1>
 
 ## Informações do desafio
 
