@@ -31,11 +31,13 @@ o endereço da imagem na página do desafio.
 
 ## Técnologias usadas:
 
+```tecnologia
 * React.js
 * TypeScript
 * React-router-dom
 * Axios
 * Docker
+```
 
 <h2 align="center"> 📷 Screenshot </h2>
 
