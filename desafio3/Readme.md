@@ -8,7 +8,7 @@
 
 ## Informações do desafio
 
-Neste desafio terceiro você deverá criar uma API Rest com o Nest.js.
+Neste terceiro desafio, você deverá criar uma API Rest com o Nest.js.
 
 Devemos criar um recurso de categorias com a URI categories com dois endpoints:
 
