@@ -8,10 +8,7 @@
 
 ## Informações do desafio
 
-
-A aplicação terá um banco de dados SQLite para armazenar os dados, este banco ficará na raiz do projeto 
-
-Neste desafio você deverá criar uma aplicação React.js com TypeScript para listar os dados consumidos 
+Neste quarto desafio, você deverá criar uma aplicação React.js com TypeScript para listar os dados consumidos 
 de uma API Rest.
 
 Crie a aplicação usando o comando: npx create-react-app --typescript nome-do-projeto.
