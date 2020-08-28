@@ -41,6 +41,6 @@ o endereço da imagem na página do desafio.
 <h2 align="center"> 📷 Screenshot </h2>
 
 <p align="center">
-<img width="600" src="">
+<img width="600" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/resultado/desafio4.gif?raw=true">
 </p>
 
