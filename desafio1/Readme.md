@@ -16,8 +16,10 @@ Gere o build da sua imagem, faça o push para o DockerHub e a informe no formul�
 
 ## Técnologias usadas:
 
+```tecnologia
 * Node.js
 * Docker
+```
 
 <h2 align="center"> 📷 Screenshot </h2>
 <p align="center">
