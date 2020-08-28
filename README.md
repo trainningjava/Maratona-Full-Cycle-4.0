@@ -1,7 +1,7 @@
 <h1 align="center">Maratona</h1>
 
 <h1 align="center">
-    <img width="120" height="40" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/grupo_4378.png">
+    <img width="120" height="40" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/grupo_4378.png?raw=true">
 </h1>
 
 ### 🤔 Sobre o que se trata ? 
