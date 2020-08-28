@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="120" height="40" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/grupo_4378.png">
+    <img width="120" height="40" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/grupo_4378.png?raw=true">
 </h1>
 
 <img src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/docker.png?raw=true" alt="docker" width="50" height="50">
