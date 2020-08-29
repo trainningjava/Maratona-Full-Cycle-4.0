@@ -1,5 +1,3 @@
-<h1 align="center">Maratona</h1>
-
 <h1 align="center">
     <img width="120" height="40" src="https://github.com/trainningjava/Maratona-Full-Cycle-4.0/blob/master/public/assets/images/grupo_4378.png?raw=true">
 </h1>
@@ -46,6 +44,12 @@ ponta a ponta. Da arquitetura até o deploy e monitoramento.
     o mundo, planeje seus projetos e acompanhe o trabalho.
 
 ```
+
+<p align="center">
+<img width="600" src="./public/assets/images/Wallpaper-02-Full-Cycle-1400x900.png?raw=true">
+</p>
+
+
 <p align="center">
 <img width="600" src="./public/assets/images/Maratona.gif?raw=true">
 </p>
