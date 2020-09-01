@@ -1,0 +1,34 @@
+.user-item {
+  border: 1px solid;
+  border-radius: 0.9rem;
+  margin-top: 1rem;
+  overflow: hidden;
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.user-item header {
+  padding: 20px 20px;
+  display: flex;
+  align-items: center;
+  background-color: white;
+}
+
+.user-item header img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.user-item header div strong {
+  display: block;
+  font-size: 18px;
+}
+
+.user-item header div span {
+  font-size: 20px;
+  display: block;
+  margin-top: 20px;
+}

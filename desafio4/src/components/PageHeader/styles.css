@@ -1,0 +1,23 @@
+.page-header {
+  align-items: flex-start;
+  justify-content: center;
+  height: 77px;
+  box-shadow: 0 -2px -2px -2px #000;
+  background-color: #272727;
+}
+
+.page-header .top-bar-container {
+  /* width: 100%; */
+  padding-right: 15px;
+  padding-left: 15px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.logo {
+  margin-top: 15px;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}

@@ -1,0 +1,22 @@
+.main-Page {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  background-color: #303030;
+}
+
+.main-Page .container {
+  font-size: 2em;
+  font-weight: 600;
+  color: #ffcd01;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.main-Page .container a.usuarios {
+  /* background: white; */
+  color: #6c757d;
+  text-decoration: none;
+}
