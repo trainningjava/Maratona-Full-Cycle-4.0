@@ -36,7 +36,7 @@ export class CategoriesController {
       'Categoria atualizada. Atenção: Remova a chave id no corpo da requisição',
   })
   async update(
-    @Param('id') id: Number,
+    @Param('id') id: number,
     @Body() categoryData: Category,
   ): Promise<any> {
     categoryData.id = Number(id);
@@ -46,7 +46,7 @@ export class CategoriesController {
 
   @Delete(':id/delete')
   @ApiOkResponse({ description: 'Apaga a categoria' })
-  async delete(@Param('id') id: Number): Promise<any> {
+  async delete(@Param('id') id: number): Promise<any> {
     return this.categoriesService.delete(id);
   }
 }
